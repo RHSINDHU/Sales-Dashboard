@@ -1,10 +1,18 @@
-# Sales-Dashboard (Tableau)
-Interactive Tableau dashboard for sales trend analysis and KPIs
+# Sales Dashboard (Tableau)
 
-This project visualizes monthly sales trends, category breakdowns, and year-over-year growth using Tableau. The dashboard includes interactive filters for product category and region, and displays KPIs like total revenue and average monthly sales.
+## Project Overview  
+Interactive Tableau dashboard for sales trend analysis and key performance indicators (KPIs).
 
-**Tools used:** Tableau, Excel  
-**Skills demonstrated:** Data cleaning, aggregation, KPI design, dashboard building  
-**Goal:** Help decision-makers identify sales trends and regional performance to support strategic planning.
+This project visualizes monthly sales trends, category breakdowns, and year-over-year growth using Tableau. The dashboard includes interactive filters for product category and region and displays KPIs such as total revenue and average monthly sales.
 
-<!-- ![Dashboard Preview](dashboard.png) -->
+## Tools Used  
+- Tableau  
+- Excel  
+
+## Skills Demonstrated  
+- Data cleaning and aggregation  
+- KPI design  
+- Dashboard building and interactivity  
+
+## Goal  
+To help decision-makers identify sales trends and regional performance, supporting strategic planning and driving better business decisions.
